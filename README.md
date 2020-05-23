@@ -41,7 +41,8 @@ and **best results**:-
 
 Team
     
-    1. https://github.com/arpit4120
-    2. https://github.com/Nimish-Jain
-    3. https://github.com/kirtikajain
-    4. https://github.com/architgpt2802
+    1. https://github.com/architgpt2802
+    2. https://github.com/arpit4120
+    3. https://github.com/Nimish-Jain
+    4. https://github.com/kirtikajain
+   
