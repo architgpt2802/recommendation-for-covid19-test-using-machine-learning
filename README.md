@@ -18,20 +18,20 @@ In this reprositary coi file contain the data we use for pridicting the result,w
 
 ## ***samples***
 
-![](https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/sample%201.png?raw=true)
-![](https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/sample2.png?raw=true)
+![](https://github.com/architgpt2802/recommendation-for-covid19-test-using-machine-learning/blob/master/readme%20images/sample%201.png)
+![](https://github.com/architgpt2802/recommendation-for-covid19-test-using-machine-learning/blob/master/readme%20images/sample2.png)
 
 ### ***Machine learning*** is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. In this we applied different algorithoms to get best results here are our conclsions:-
 
-![](https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/Accuracy-Random%20forest.png)
-![](https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/Accuracy-naive%20byes.png)
-![](https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/Accuracy-svc.png)
-![](https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/Accuracy-svm.png)
-![](https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/accuracy%20knn.png)
+![](https://github.com/architgpt2802/recommendation-for-covid19-test-using-machine-learning/blob/master/readme%20images/Accuracy-Random%20forest.png)
+![]https://github.com/architgpt2802/recommendation-for-covid19-test-using-machine-learning/blob/master/readme%20images/Accuracy-naive%20byes.png)
+![](https://github.com/architgpt2802/recommendation-for-covid19-test-using-machine-learning/blob/master/readme%20images/Accuracy-svc.png)
+![](https://github.com/architgpt2802/recommendation-for-covid19-test-using-machine-learning/blob/master/readme%20images/Accuracy-svm.png)
+![](https://github.com/architgpt2802/recommendation-for-covid19-test-using-machine-learning/blob/master/readme%20images/accuracy%20knn.png)
 
 and **best results**:-
 
-![](https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/logistic%20regression.png)
+![](https://github.com/architgpt2802/recommendation-for-covid19-test-using-machine-learning/blob/master/readme%20images/logistic%20regression.png)
 
 ### Sources
 
